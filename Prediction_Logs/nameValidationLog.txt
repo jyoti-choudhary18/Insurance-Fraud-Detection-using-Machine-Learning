@@ -1,0 +1,83 @@
+2020-02-15/16:57:29		Valid File name!! File moved to GoodRaw Folder :: fraudDetection_021119920_010222.csv
+2020-02-15/17:09:20		Valid File name!! File moved to GoodRaw Folder :: fraudDetection_021119920_010222.csv
+2020-02-15/17:34:20		Valid File name!! File moved to GoodRaw Folder :: fraudDetection_021119920_010222.csv
+2021-05-20/13:49:50		Valid File name!! File moved to GoodRaw Folder :: fraudDetection_021119920_010222.csv
+2021-05-20/14:06:43		Valid File name!! File moved to GoodRaw Folder :: fraudDetection_021119920_010222.csv
+2021-05-26/12:18:04		Valid File name!! File moved to GoodRaw Folder :: fraudDetection_021119920_010222.csv
+2021-05-26/12:19:58		Valid File name!! File moved to GoodRaw Folder :: fraudDetection_021119920_010222.csv
+2021-05-26/12:22:04		Valid File name!! File moved to GoodRaw Folder :: fraudDetection_021119920_010222.csv
+2021-05-26/13:21:13		Valid File name!! File moved to GoodRaw Folder :: fraudDetection_021119920_010222.csv
+2021-05-26/13:41:53		Valid File name!! File moved to GoodRaw Folder :: fraudDetection_021119920_010222.csv
+2021-05-26/14:15:32		Valid File name!! File moved to GoodRaw Folder :: fraudDetection_021119920_010222.csv
+2021-05-26/14:22:00		Valid File name!! File moved to GoodRaw Folder :: fraudDetection_021119920_010222.csv
+2021-05-26/14:29:43		Valid File name!! File moved to GoodRaw Folder :: fraudDetection_021119920_010222.csv
+2021-05-26/14:45:01		Valid File name!! File moved to GoodRaw Folder :: fraudDetection_021119920_010222.csv
+2021-05-26/14:48:36		Valid File name!! File moved to GoodRaw Folder :: fraudDetection_021119920_010222.csv
+2021-05-26/15:03:59		Valid File name!! File moved to GoodRaw Folder :: fraudDetection_021119920_010222.csv
+2021-05-26/15:10:37		Valid File name!! File moved to GoodRaw Folder :: fraudDetection_021119920_010222.csv
+2021-05-26/16:10:56		Valid File name!! File moved to GoodRaw Folder :: fraudDetection_021119920_010222.csv
+2021-05-26/16:19:40		Valid File name!! File moved to GoodRaw Folder :: fraudDetection_021119920_010222.csv
+2021-05-26/16:51:07		Valid File name!! File moved to GoodRaw Folder :: fraudDetection_021119920_010222.csv
+2021-05-26/16:53:39		Valid File name!! File moved to GoodRaw Folder :: fraudDetection_021119920_010222.csv
+2021-05-26/17:26:53		Valid File name!! File moved to GoodRaw Folder :: fraudDetection_021119920_010222.csv
+2021-05-26/19:43:09		Valid File name!! File moved to GoodRaw Folder :: fraudDetection_021119920_010222.csv
+2021-05-26/19:45:29		Valid File name!! File moved to GoodRaw Folder :: fraudDetection_021119920_010222.csv
+2021-05-26/19:46:46		Valid File name!! File moved to GoodRaw Folder :: fraudDetection_021119920_010222.csv
+2021-05-26/19:51:11		Valid File name!! File moved to GoodRaw Folder :: fraudDetection_021119920_010222.csv
+2021-05-26/19:56:36		Valid File name!! File moved to GoodRaw Folder :: fraudDetection_021119920_010222.csv
+2021-05-26/19:58:17		Valid File name!! File moved to GoodRaw Folder :: fraudDetection_021119920_010222.csv
+2021-05-26/20:00:14		Valid File name!! File moved to GoodRaw Folder :: fraudDetection_021119920_010222.csv
+2026-02-10/11:06:38		Valid File name!! File moved to GoodRaw Folder :: fraudDetection_021119920_010222.csv
+2026-02-10/11:06:39		Valid File name!! File moved to GoodRaw Folder :: fraudDetection_021119920_010222.csv
+2026-02-10/11:06:39		Valid File name!! File moved to GoodRaw Folder :: fraudDetection_021119920_010222.csv
+2026-02-10/11:10:51		Invalid File Name!! File moved to Bad Raw Folder :: lambda.csv
+2026-02-10/11:10:52		Invalid File Name!! File moved to Bad Raw Folder :: lambda.csv
+2026-02-10/11:13:24		Invalid File Name!! File moved to Bad Raw Folder :: lambda.csv
+2026-02-10/11:17:43		Invalid File Name!! File moved to Bad Raw Folder :: lambda.csv
+2026-02-10/11:22:37		Invalid File Name!! File moved to Bad Raw Folder :: lambda.csv
+2026-02-10/11:25:22		Valid File name!! File moved to GoodRaw Folder :: fraudDetection_021119920_010222.csv
+2026-02-10/11:27:03		Invalid File Name!! File moved to Bad Raw Folder :: fraudDetection_1.csv
+2026-02-10/11:28:28		Invalid File Name!! File moved to Bad Raw Folder :: fraudDetection_1.csv
+2026-02-10/11:28:49		Invalid File Name!! File moved to Bad Raw Folder :: fraudDetection_1.csv
+2026-02-10/11:33:35		Invalid File Name!! File moved to Bad Raw Folder :: fraudDetection_1.csv
+2026-02-10/11:36:42		Invalid File Name!! File moved to Bad Raw Folder :: fraudDetection_1.csv
+2026-02-10/11:39:06		Invalid File Name!! File moved to Bad Raw Folder :: fraudDetection_1.csv
+2026-02-10/11:53:12		Valid File name!! File moved to GoodRaw Folder :: fraudDetection_021119920_010222.csv
+2026-02-10/11:56:54		Valid File name!! File moved to GoodRaw Folder :: fraudDetection_021119920_010222.csv
+2026-02-10/11:59:51		Valid File name!! File moved to GoodRaw Folder :: fraudDetection_021119920_010222.csv
+2026-02-10/12:03:07		Valid File name!! File moved to GoodRaw Folder :: fraudDetection_021119920_010222.csv
+2026-02-10/12:38:40		Valid File name!! File moved to GoodRaw Folder :: fraudDetection_021119920_010222.csv
+2026-02-10/12:47:28		Valid File name!! File moved to GoodRaw Folder :: fraudDetection_021119920_010222.csv
+2026-02-10/13:05:24		Valid File name!! File moved to GoodRaw Folder :: fraudDetection_021119920_010222.csv
+2026-02-10/13:05:26		Valid File name!! File moved to GoodRaw Folder :: fraudDetection_021119920_010222.csv
+2026-02-10/13:11:49		Valid File name!! File moved to GoodRaw Folder :: fraudDetection_021119920_010222.csv
+2026-02-10/13:12:43		Valid File name!! File moved to GoodRaw Folder :: fraudDetection_021119920_010222.csv
+2026-02-10/13:16:28		Valid File name!! File moved to GoodRaw Folder :: fraudDetection_021119920_010222.csv
+2026-02-10/13:16:29		Valid File name!! File moved to GoodRaw Folder :: fraudDetection_021119920_010222.csv
+2026-02-10/13:16:30		Valid File name!! File moved to GoodRaw Folder :: fraudDetection_021119920_010222.csv
+2026-02-10/13:16:30		Valid File name!! File moved to GoodRaw Folder :: fraudDetection_021119920_010222.csv
+2026-02-10/13:16:30		Valid File name!! File moved to GoodRaw Folder :: fraudDetection_021119920_010222.csv
+2026-02-10/13:19:06		Valid File name!! File moved to GoodRaw Folder :: fraudDetection_021119920_010222.csv
+2026-02-10/14:08:36		Invalid File Name!! File moved to Bad Raw Folder :: fraudDetection_02111992_010222.csv
+2026-02-10/14:10:28		Invalid File Name!! File moved to Bad Raw Folder :: .DS_Store
+2026-02-10/14:10:28		Valid File name!! File moved to GoodRaw Folder :: fraudDetection_021119920_010222.csv
+2026-02-10/14:14:16		Invalid File Name!! File moved to Bad Raw Folder :: .DS_Store
+2026-02-10/14:14:16		Invalid File Name!! File moved to Bad Raw Folder :: fraud_test_many_Y.csv
+2026-02-10/14:15:31		Invalid File Name!! File moved to Bad Raw Folder :: .DS_Store
+2026-02-10/14:15:31		Valid File name!! File moved to GoodRaw Folder :: fraudDetection_021119920_010222.csv
+2026-02-10/14:17:55		Invalid File Name!! File moved to Bad Raw Folder :: .DS_Store
+2026-02-10/14:17:55		Valid File name!! File moved to GoodRaw Folder :: fraudDetection_021119920_010222.csv
+2026-02-10/14:20:16		Invalid File Name!! File moved to Bad Raw Folder :: .DS_Store
+2026-02-10/14:20:16		Valid File name!! File moved to GoodRaw Folder :: fraudDetection_021119920_010222.csv
+2026-02-10/14:23:28		Invalid File Name!! File moved to Bad Raw Folder :: .DS_Store
+2026-02-10/14:23:28		Valid File name!! File moved to GoodRaw Folder :: fraudDetection_021119920_010222.csv
+2026-02-10/14:25:45		Invalid File Name!! File moved to Bad Raw Folder :: .DS_Store
+2026-02-10/14:25:45		Invalid File Name!! File moved to Bad Raw Folder :: YY.csv
+2026-02-10/14:25:57		Invalid File Name!! File moved to Bad Raw Folder :: .DS_Store
+2026-02-10/14:25:57		Valid File name!! File moved to GoodRaw Folder :: fraudDetection_021119920_010222.csv
+2026-02-10/14:29:46		Invalid File Name!! File moved to Bad Raw Folder :: .DS_Store
+2026-02-10/14:29:46		Valid File name!! File moved to GoodRaw Folder :: fraudDetection_021119920_010222.csv
+2026-02-10/14:44:02		Invalid File Name!! File moved to Bad Raw Folder :: .DS_Store
+2026-02-10/14:44:02		Valid File name!! File moved to GoodRaw Folder :: fraudDetection_021119920_010222.csv
+2026-02-10/15:21:40		Invalid File Name!! File moved to Bad Raw Folder :: .DS_Store
+2026-02-10/15:21:40		Valid File name!! File moved to GoodRaw Folder :: fraudDetection_021119920_010222.csv
